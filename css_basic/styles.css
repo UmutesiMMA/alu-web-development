@@ -9,7 +9,13 @@ main {
 }
 aside {
   flex: 1;
+  background-color: rgb(198, 186, 171);
+  font-size: large;
 }
 article {
   flex: 2;
+}
+
+footer {
+  font-size: small;
 }
